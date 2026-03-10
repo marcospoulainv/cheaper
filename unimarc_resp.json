@@ -1,0 +1,53 @@
+{
+  "isInvalidUrlForReCaptcha": false,
+  "isDevice": false,
+  "__N_SSP": true,
+  "pageProps": {
+    "dehydratedState": {
+      "mutations": [],
+      "queries": []
+    },
+    "intelliSearchData": null,
+    "bannerLegal": {
+      "sys": {
+        "type": "Array"
+      },
+      "total": 1,
+      "skip": 0,
+      "limit": 1,
+      "items": [
+        {
+          "sys": {
+            "id": "57N4Pe5RBp2mXXjyN85ug2",
+            "type": "Entry",
+            "contentType": {
+              "sys": {
+                "id": "plpBannerLegal",
+                "linkType": "ContentType",
+                "type": "Link"
+              }
+            }
+          },
+          "fields": {
+            "imageDesktop": "https://images.ctfassets.net/un6yvtd6uq5z/3sCl6dwJtOmLyke9OEZAQA/97b0bb9e729cc46b4019d23eaad68043/BANNER_HUINCHA_-__-_Alimentos_mascotas.webp",
+            "imageMobile": "https://images.ctfassets.net/un6yvtd6uq5z/1cTMu644e9ORfBiVxJuqrt/0aa34d8b1aa0230910906bc03ce442bc/BANNER_HUINCHA_MB_-__-_Alimentos_mascotas.webp",
+            "urlRedirect": "https://www.unimarc.cl/search?q=yoghurt-batido",
+            "creativeName": "hazte socio diamante ahora",
+            "creativeSlot": "CategoryBanner",
+            "promotionId": "Membres\u00eda Club Unimarc (01-01-2025 a 28-02-2025)",
+            "promotionName": "Membres\u00eda Club Unimarc",
+            "label": "UNI___Ciclo 2  (02-03-2026 a 04-03-2026)_Yoghurt Batido Seleccionados 8x$2.000",
+            "matchMode": "similar"
+          }
+        }
+      ],
+      "includes": {
+        "Asset": [],
+        "Entry": []
+      }
+    },
+    "page": 1,
+    "query": "leche",
+    "statusCode": null
+  }
+}

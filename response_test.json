@@ -1,0 +1,992 @@
+{
+  "sections": {
+    "Brands": [],
+    "Search Suggestions": [
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "agua de coco"
+        },
+        "value": "agua de coco",
+        "is_slotted": false
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "coco chanel"
+        },
+        "value": "coco chanel",
+        "is_slotted": false
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "my cocos"
+        },
+        "value": "my cocos",
+        "is_slotted": false
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "coco mademoiselle"
+        },
+        "value": "coco mademoiselle",
+        "is_slotted": false
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "aceite de coco"
+        },
+        "value": "aceite de coco",
+        "is_slotted": false
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "coco"
+        },
+        "value": "coco",
+        "is_slotted": false
+      },
+      {
+        "matched_terms": [
+          "coca"
+        ],
+        "labels": {},
+        "data": {
+          "id": "coca cola"
+        },
+        "value": "coca cola",
+        "is_slotted": false
+      }
+    ],
+    "Categories": [],
+    "Products": [
+      {
+        "matched_terms": [
+          "coca"
+        ],
+        "labels": {},
+        "data": {
+          "id": "MKQ1RGI0B7",
+          "url": "https://paris.cl/polera-coca-cola-talla-s-grande-MKQ1RGI0B7.html",
+          "sellers": [
+            "Mandarina"
+          ],
+          "description": "<P>Polera Coca Cola, 100% algodón.</P>\n<p>Medidas tall S Grande</p>\n<p>Ancho de hombros 55cms</p>\n<p>Contorno de pecho 118cms</p>\n<p>Largo 71cms</p>\n\n<p>La Polera Coca Cola en talla S es la elección perfecta para el hombre moderno que busca comodidad y estilo en su vestimenta diaria. Confeccionada en suave algodón, esta polera ofrece una sensación agradable al tacto, ideal para el uso urbano y actividades cotidianas. Su diseño de manga corta y cuello redondo la convierte en una prenda versátil que se adapta a diversas ocasiones.</p>\n\n<p>La marca Coca Cola es sinónimo de calidad y autenticidad, lo que garantiza que cada prenda no solo es atractiva, sino también duradera. Esta polera es perfecta para combinar con jeans, shorts o incluso debajo de una chaqueta, permitiendo crear looks casuales y desenfadados. Además, su diseño atemporal asegura que siempre estarás a la moda, sin importar la temporada.</p>\n\n<p>Ideal para aquellos que valora",
+          "groups": [
+            {
+              "group_id": "homModPoleras",
+              "display_name": "Poleras",
+              "path": "/ecommerce-root/modahombre/homModa",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "modahombre",
+                  "display_name": "Hombre"
+                },
+                {
+                  "id": "homModa",
+                  "display_name": "Moda Hombre"
+                }
+              ]
+            }
+          ],
+          "size": "S",
+          "color": "Blanco",
+          "genero": "Hombres",
+          "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/0fb3bac8-f056-4a7f-ac79-52ad46434613/MKQ1RGI0B7/MKQ1RGI0B7-1/1763253973133-MKQ1RGI0B7-1-1.jpg",
+          "variation_id": "MKQ1RGI0B7-1",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Blanco"
+              ]
+            },
+            {
+              "name": "genero",
+              "values": [
+                "Hombres"
+              ]
+            }
+          ],
+          "displayedPrice": 15990,
+          "tipoProductoAll": "Poleras",
+          "discountPercentage": 20
+        },
+        "value": "Polera Coca Cola Talla S (grande)",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "size": "S",
+              "color": "Blanco",
+              "genero": "Hombres",
+              "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/0fb3bac8-f056-4a7f-ac79-52ad46434613/MKQ1RGI0B7/MKQ1RGI0B7-1/1763253973133-MKQ1RGI0B7-1-1.jpg",
+              "variation_id": "MKQ1RGI0B7-1",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Blanco"
+                  ]
+                },
+                {
+                  "name": "genero",
+                  "values": [
+                    "Hombres"
+                  ]
+                }
+              ],
+              "displayedPrice": 15990,
+              "tipoProductoAll": "Poleras",
+              "discountPercentage": 20
+            },
+            "value": "Polera Coca Cola Talla S (grande)"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coca"
+        ],
+        "labels": {},
+        "data": {
+          "id": "MK0T7547OX",
+          "url": "https://paris.cl/vaso-termico-germ-x-coca-cola-590-ml-rosa-coral-MK0T7547OX.html",
+          "sellers": [
+            "Smart Concept"
+          ],
+          "description": "<h4>Hidratación con estilo y funcionalidad diaria</h4>\nEl Mug Térmico Enjoy Coca-Cola x GERM de 590 ml está diseñado para mantener tus bebidas a la temperatura ideal durante más tiempo gracias a su estructura con aislamiento al vacío. Es perfecto para café, té, agua o bebidas frías, acompañándote cómodamente en la oficina, en casa o en tus desplazamientos diarios.\n<h4>Diseño práctico, compacto y ergonómico</h4>\nSu formato de tamaño medio permite transportarlo fácilmente en mochilas, bolsos o portavasos de auto. Incluye asa integrada para un agarre cómodo y seguro, mientras su diseño moderno y acabados premium lo convierten en un accesorio atractivo y funcional para el día a día.\n<h4>Cierre seguro y estabilidad mejorada</h4>\nCuenta con tapa hermética antifugas que evita derrames durante el transporte y una base de silicona antideslizante que proporciona mayor estabilidad en distintas superficies. Su construcción resistente lo hace ideal",
+          "groups": [
+            {
+              "group_id": "dchCcnTermosHermeticos",
+              "display_name": "Termos y Botellas de Agua",
+              "path": "/ecommerce-root/decohogar/dchCocina",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "decohogar",
+                  "display_name": "Deco"
+                },
+                {
+                  "id": "dchCocina",
+                  "display_name": "Menaje Cocina"
+                }
+              ]
+            }
+          ],
+          "size": "Talla Única",
+          "ancho": "9.5",
+          "color": "Rosado",
+          "modelo": "GPS-2201VP-CCEP",
+          "material": "Acero Inoxidable",
+          "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/98a2e99c-8532-4148-b905-41f3ce1fe78c/MK0T7547OX/MK0T7547OX-1/1771362019843-MK0T7547OX-1-1.jpg",
+          "variation_id": "MK0T7547OX-1",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Rosado"
+              ]
+            }
+          ],
+          "displayedPrice": 28990,
+          "tipoProductoAll": "Botellas de Agua",
+          "discountPercentage": 17
+        },
+        "value": "Vaso Térmico GERM x Coca-Cola 590 ml Rosa Coral",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "size": "Talla Única",
+              "ancho": "9.5",
+              "color": "Rosado",
+              "modelo": "GPS-2201VP-CCEP",
+              "material": "Acero Inoxidable",
+              "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/98a2e99c-8532-4148-b905-41f3ce1fe78c/MK0T7547OX/MK0T7547OX-1/1771362019843-MK0T7547OX-1-1.jpg",
+              "variation_id": "MK0T7547OX-1",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Rosado"
+                  ]
+                }
+              ],
+              "displayedPrice": 28990,
+              "tipoProductoAll": "Botellas de Agua",
+              "discountPercentage": 17
+            },
+            "value": "Vaso Térmico GERM x Coca-Cola 590 ml Rosa Coral"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coca"
+        ],
+        "labels": {},
+        "data": {
+          "id": "MKKYNCNBVF",
+          "url": "https://beta.paris.cl/reloj-timex-hombre-coca-cola-tw2v25800-cuarzo-MKKYNCNBVF.html",
+          "sellers": [
+            "LIQUIDADORA RC"
+          ],
+          "description": "Timex es una reconocida marca de relojes conocida por su durabilidad, precisión y estilo atemporal. Ofrece una amplia gama de relojes para hombres y mujeres, desde modelos clásicos hasta diseños más deportivos, todos respaldados por la calidad y la reputación de la marca.\n\nESPECIFICACIONES TECNICAS:\n\nMODELO: TW2V25800\nTAMAÑO ESFERA: 38mm\nMATERIAL MICA: Cristal Mineral\nMATERIAL PULSERA: Acero Inoxidable\nRESISTENCIA AL AGUA: 50 mt\nTIPO DE CIERRE: Desplegable\nPESO RELOJ (g): 96",
+          "groups": [
+            {
+              "group_id": "CategFulfillment",
+              "display_name": "Fulfillment",
+              "path": "/ecommerce-root",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                }
+              ]
+            },
+            {
+              "group_id": "homAccRelojes",
+              "display_name": "Relojes",
+              "path": "/ecommerce-root/modahombre/homAccesorios",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "modahombre",
+                  "display_name": "Hombre"
+                },
+                {
+                  "id": "homAccesorios",
+                  "display_name": "Accesorios"
+                }
+              ]
+            }
+          ],
+          "size": "Talla Única",
+          "genero": "Hombres",
+          "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/da447637-3ca7-4592-80f1-95f34712158d/MKKYNCNBVF/MKKYNCNBVF-1/1715949999744-MKKYNCNBVF-1-1.jpg",
+          "variation_id": "MKKYNCNBVF-1",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Gris"
+              ]
+            },
+            {
+              "name": "genero",
+              "values": [
+                "Hombres"
+              ]
+            }
+          ],
+          "displayedPrice": 169990,
+          "tipoProductoAll": "Relojes",
+          "discountPercentage": 11
+        },
+        "value": "Reloj Timex Hombre Coca-cola Tw2v25800 Cuarzo",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "url": "https://beta.paris.cl/reloj-timex-hombre-coca-cola-tw2v25800-cuarzo-MKKYNCNBVF.html",
+              "size": "Talla Única",
+              "genero": "Hombres",
+              "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/da447637-3ca7-4592-80f1-95f34712158d/MKKYNCNBVF/MKKYNCNBVF-1/1715949999744-MKKYNCNBVF-1-1.jpg",
+              "description": "Timex es una reconocida marca de relojes conocida por su durabilidad, precisión y estilo atemporal. Ofrece una amplia gama de relojes para hombres y mujeres, desde modelos clásicos hasta diseños más deportivos, todos respaldados por la calidad y la reputación de la marca.\n\nESPECIFICACIONES TECNICAS:\n\nMODELO: TW2V25800\nTAMAÑO ESFERA: 38mm\nMATERIAL MICA: Cristal Mineral\nMATERIAL PULSERA: Acero Inoxidable\nRESISTENCIA AL AGUA: 50 mt\nTIPO DE CIERRE: Desplegable\nPESO RELOJ (g): 96",
+              "variation_id": "MKKYNCNBVF-1",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Gris"
+                  ]
+                },
+                {
+                  "name": "genero",
+                  "values": [
+                    "Hombres"
+                  ]
+                }
+              ],
+              "displayedPrice": 169990,
+              "tipoProductoAll": "Relojes",
+              "discountPercentage": 11
+            },
+            "value": "Reloj Timex Hombre Coca-cola Tw2v25800 Cuarzo"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coca"
+        ],
+        "labels": {},
+        "data": {
+          "id": "MK2BP9SFCD",
+          "url": "https://beta.paris.cl/6x-bebida-coca-cola-original-1500cc-MK2BP9SFCD.html",
+          "sellers": [
+            "Tost"
+          ],
+          "description": "La Bebida Coca Cola Original de 1500cc es una opción refrescante y deliciosa que contiene la fórmula original y única de Coca Cola. Con un tamaño conveniente para compartir, esta bebida satisfará tu sed y te brindará un sabor inconfundible en cada sorbo. ¡Disfruta de la bebida favorita de millones de personas en todo el mundo!",
+          "groups": [
+            {
+              "group_id": "dchGrmAguasBebidas",
+              "display_name": "Aguas, Bebidas y Energéticas",
+              "path": "/ecommerce-root/masCategorias/catSupermercado",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "masCategorias",
+                  "display_name": "Nuevas Categorías"
+                },
+                {
+                  "id": "catSupermercado",
+                  "display_name": "Supermercado"
+                }
+              ]
+            }
+          ],
+          "color": "Único Color",
+          "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/fce83d6b-03e5-4247-9f50-e2a3a2c1f440/MK2BP9SFCD/MK2BP9SFCD-1/1721764342086-MK2BP9SFCD-1-0.jpg",
+          "variation_id": "MK2BP9SFCD-1",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Misceláneo"
+              ]
+            }
+          ],
+          "displayedPrice": 13990,
+          "tipoProductoAll": "Bebidas y Energéticas",
+          "discountPercentage": 13
+        },
+        "value": "6x Bebida Coca Cola Original 1500cc",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "url": "https://beta.paris.cl/6x-bebida-coca-cola-original-1500cc-MK2BP9SFCD.html",
+              "color": "Único Color",
+              "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/fce83d6b-03e5-4247-9f50-e2a3a2c1f440/MK2BP9SFCD/MK2BP9SFCD-1/1721764342086-MK2BP9SFCD-1-0.jpg",
+              "description": "La Bebida Coca Cola Original de 1500cc es una opción refrescante y deliciosa que contiene la fórmula original y única de Coca Cola. Con un tamaño conveniente para compartir, esta bebida satisfará tu sed y te brindará un sabor inconfundible en cada sorbo. ¡Disfruta de la bebida favorita de millones de personas en todo el mundo!",
+              "variation_id": "MK2BP9SFCD-1",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Misceláneo"
+                  ]
+                }
+              ],
+              "displayedPrice": 13990,
+              "tipoProductoAll": "Bebidas y Energéticas",
+              "discountPercentage": 13
+            },
+            "value": "6x Bebida Coca Cola Original 1500cc"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "MKHXJJKR7A",
+          "url": "https://paris.cl/desodorante-masculino-para-cocos-mycocos-MKHXJJKR7A.html",
+          "sellers": [
+            "My Cocos Oficial"
+          ],
+          "description": "Aroma: Cocos Fresh.\nFormato: 60 ml.\nIngredientes Botánicos 100% naturales.\nNo testeado en animales.\nSin colorantes.\nSin parabenos.\nApto para veganos.\n\n¿Razones para siempre usar el Desodorante para Cocos MyCOCOS®?\n\n• Te brinda protección contra olores no deseados con una fórmula que enriquece tu piel con elementos naturales.\n\n• Hidrata y refresca la piel sensible.\n\n• Alivia y previene irritaciones en las zonas delicadas.\n\nEl Desodorante Íntimo Masculino MyCOCOS® es ese detalle esencial que te permite iniciar y concluir tu jornada sintiéndote invencible.\n\nModo de Uso:\nDispensa la cantidad de producto que necesites en tus dedos y aplica con delicadeza en las áreas deseadas, distribuyendo de forma equitativa con suaves masajes hasta su completa absorción.\n\nConsejo de Expertos: Asegúrate de que el producto se haya secado completamente antes de vestirte.",
+          "groups": [
+            {
+              "group_id": "blzTrAfeitado",
+              "display_name": "Afeitado",
+              "path": "/ecommerce-root/belleza/blzTratamientos",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "belleza",
+                  "display_name": "Belleza"
+                },
+                {
+                  "id": "blzTratamientos",
+                  "display_name": "Cuidado y Tratamiento"
+                }
+              ]
+            }
+          ],
+          "color": "Único Color",
+          "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/0fee7fde-1543-4091-8eef-b766f2f59ba8/MKHXJJKR7A/MKHXJJKR7A-1/1714771569944-MKHXJJKR7A-1-1.jpg",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Misceláneo"
+              ]
+            }
+          ],
+          "variation_id": "MKHXJJKR7A-1",
+          "displayedPrice": 15990,
+          "tipoProductoAll": "Depiladoras",
+          "discountPercentage": 11
+        },
+        "value": "Desodorante Masculino Para Cocos Mycocos",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "color": "Único Color",
+              "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/0fee7fde-1543-4091-8eef-b766f2f59ba8/MKHXJJKR7A/MKHXJJKR7A-1/1714771569944-MKHXJJKR7A-1-1.jpg",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Misceláneo"
+                  ]
+                }
+              ],
+              "variation_id": "MKHXJJKR7A-1",
+              "displayedPrice": 15990,
+              "tipoProductoAll": "Depiladoras",
+              "discountPercentage": 11
+            },
+            "value": "Desodorante Masculino Para Cocos Mycocos"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "MKUO8ONMK9",
+          "url": "https://paris.cl/rasuradora-masculina-my-cocosr-30-pro-MKUO8ONMK9.html",
+          "sellers": [
+            "My Cocos Oficial"
+          ],
+          "description": "Fuimos hasta dónde NADIE se atrevía.\n\n¿Que incluye?\n- Rasuradora MyCOCOS 3.0 inalambrica y waterproof\n- 2 Peines de rebaje para resultados de 3mm, 6mm, 9mm y 12mm\n- 1 Cable USB cargador\n- 1 Cepillo de limpieza\n\nCaracterísticas:\n- Cuchilla de ceramica SKIN SAFE que reduce el riesgo de cortes y rasguños o tirones\n- Motor de 7,000 RPM silencioso\n- 100% a prueba de agua\n- Diseño ergonómico antideslizantes\n- Disponible en negro y azul\n\n¿Me puedo cortar?\n¡La mejor técnica y mejores consejos los tenemos para ti! Escribenos un mensaje interno apenas hagas tu compra.\n\nNOTA: TE ENVIAREMOS POR INTERNO LAS INSTRUCCIONES DE USO Y CUIDADO DE LA MAQUINA\n\n¿Sirve para todo el cuerpo?\n\nSi, MyCOCOS®, puede ser utilizado en todas las zonas del cuerpo. Puede ser utilizado con peines o directamente con la cuchilla de cerámica en la piel.\nRasura la zona intima, axilas, pecho, barba, cabello, brazos o cualquier parte que desees.\n\n¿Puedo usarla en la ducha?\n\nSi",
+          "groups": [
+            {
+              "group_id": "lblCuidadopersonal",
+              "display_name": "Cuidado Personal",
+              "path": "/ecommerce-root/lineablanca",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "lineablanca",
+                  "display_name": "Electro y Línea Blanca"
+                }
+              ]
+            },
+            {
+              "group_id": "lblCprCortapelosAfeitadoras",
+              "display_name": "Barbería",
+              "path": "/ecommerce-root/lineablanca/lblCuidadopersonal",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "lineablanca",
+                  "display_name": "Electro y Línea Blanca"
+                },
+                {
+                  "id": "lblCuidadopersonal",
+                  "display_name": "Cuidado Personal"
+                }
+              ]
+            }
+          ],
+          "color": "Azul",
+          "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/0fee7fde-1543-4091-8eef-b766f2f59ba8/MKUO8ONMK9/MKUO8ONMK9-1/1719946099916-MKUO8ONMK9-1-1.jpg",
+          "variation_id": "MKUO8ONMK9-1",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Azul"
+              ]
+            }
+          ],
+          "displayedPrice": 59990,
+          "tipoProductoAll": "Afeitadoras",
+          "discountPercentage": 0
+        },
+        "value": "Rasuradora Masculina - MY COCOS®️ 3.0 PRO",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "color": "Azul",
+              "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/0fee7fde-1543-4091-8eef-b766f2f59ba8/MKUO8ONMK9/MKUO8ONMK9-1/1719946099916-MKUO8ONMK9-1-1.jpg",
+              "variation_id": "MKUO8ONMK9-1",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Azul"
+                  ]
+                }
+              ],
+              "displayedPrice": 59990,
+              "tipoProductoAll": "Afeitadoras",
+              "discountPercentage": 0
+            },
+            "value": "Rasuradora Masculina - MY COCOS®️ 3.0 PRO"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "244232999",
+          "url": "https://paris.cl/coco-mademoiselle-pearly-body-oil-250ml-244232999.html",
+          "sellers": [
+            "Paris"
+          ],
+          "description": "",
+          "groups": [
+            {
+              "group_id": "blzMrcChanel",
+              "display_name": "CHANEL",
+              "path": "/ecommerce-root/belleza/blzMarcas",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "belleza",
+                  "display_name": "Belleza"
+                },
+                {
+                  "id": "blzMarcas",
+                  "display_name": "Marcas Destacadas"
+                }
+              ]
+            },
+            {
+              "group_id": "blzTrManosCuerpo",
+              "display_name": "Cuidado del Cuerpo",
+              "path": "/ecommerce-root/belleza/blzTratamientos",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "belleza",
+                  "display_name": "Belleza"
+                },
+                {
+                  "id": "blzTratamientos",
+                  "display_name": "Cuidado y Tratamiento"
+                }
+              ]
+            }
+          ],
+          "color": "Único Color",
+          "genero": "Mujeres",
+          "image_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/244232999/variant/6890f1d3004599413eaf6d05/images/5e9de175-7f9a-47c8-a99c-2b95dd316ee5/244232999-0000-001.jpg",
+          "variation_id": "244232999",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Misceláneo"
+              ]
+            },
+            {
+              "name": "genero",
+              "values": [
+                "Mujeres"
+              ]
+            }
+          ],
+          "displayedPrice": 159500,
+          "tipoProductoAll": "Aceites Corporales",
+          "discountPercentage": 0
+        },
+        "value": "COCO MADEMOISELLE PEARLY BODY OIL / 250ml",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "color": "Único Color",
+              "genero": "Mujeres",
+              "image_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/244232999/variant/6890f1d3004599413eaf6d05/images/5e9de175-7f9a-47c8-a99c-2b95dd316ee5/244232999-0000-001.jpg",
+              "variation_id": "244232999",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Misceláneo"
+                  ]
+                },
+                {
+                  "name": "genero",
+                  "values": [
+                    "Mujeres"
+                  ]
+                }
+              ],
+              "displayedPrice": 159500,
+              "tipoProductoAll": "Aceites Corporales",
+              "discountPercentage": 0
+            },
+            "value": "COCO MADEMOISELLE PEARLY BODY OIL / 250ml"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coco"
+        ],
+        "labels": {},
+        "data": {
+          "id": "962826999",
+          "url": "https://paris.cl/coco-mademoiselle-jabon-suave-perfumado-100g-962826999.html",
+          "sellers": [
+            "Paris"
+          ],
+          "description": "",
+          "groups": [
+            {
+              "group_id": "blzTrManosCuerpo",
+              "display_name": "Cuidado del Cuerpo",
+              "path": "/ecommerce-root/belleza/blzTratamientos",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "belleza",
+                  "display_name": "Belleza"
+                },
+                {
+                  "id": "blzTratamientos",
+                  "display_name": "Cuidado y Tratamiento"
+                }
+              ]
+            },
+            {
+              "group_id": "blzMrcChanel",
+              "display_name": "CHANEL",
+              "path": "/ecommerce-root/belleza/blzMarcas",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "belleza",
+                  "display_name": "Belleza"
+                },
+                {
+                  "id": "blzMarcas",
+                  "display_name": "Marcas Destacadas"
+                }
+              ]
+            }
+          ],
+          "color": "Único Color",
+          "genero": "Mujeres",
+          "image_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/962826999/variant/68c19995780d3177b60dea4e/images/fdd0c7fa-7beb-46e6-9d87-9118db47b855/962826999-0000-001.jpg",
+          "variation_id": "962826999",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Misceláneo"
+              ]
+            },
+            {
+              "name": "genero",
+              "values": [
+                "Mujeres"
+              ]
+            }
+          ],
+          "displayedPrice": 39600,
+          "tipoProductoAll": "Jabones",
+          "discountPercentage": 0
+        },
+        "value": "COCO MADEMOISELLE Jabón Suave Perfumado 100g",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "color": "Único Color",
+              "genero": "Mujeres",
+              "image_url": "https://cl-dam-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/cl/paris/962826999/variant/68c19995780d3177b60dea4e/images/fdd0c7fa-7beb-46e6-9d87-9118db47b855/962826999-0000-001.jpg",
+              "variation_id": "962826999",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Misceláneo"
+                  ]
+                },
+                {
+                  "name": "genero",
+                  "values": [
+                    "Mujeres"
+                  ]
+                }
+              ],
+              "displayedPrice": 39600,
+              "tipoProductoAll": "Jabones",
+              "discountPercentage": 0
+            },
+            "value": "COCO MADEMOISELLE Jabón Suave Perfumado 100g"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coca"
+        ],
+        "labels": {},
+        "data": {
+          "id": "MKSQ51CPDP",
+          "url": "https://beta.paris.cl/6x-bebida-coca-cola-light-3000cc-MKSQ51CPDP.html",
+          "sellers": [
+            "Tost"
+          ],
+          "description": "Refréscate con nuestra amplia selección de aguas, bebidas y jugos, diseñada para satisfacer todos tus gustos y necesidades. Desde aguas premium y bebidas refrescantes hasta jugos llenos de vitalidad, nuestra colección ofrece opciones para cada ocasión. Descubre la pureza en cada gota, la frescura en cada sorbo y la variedad de sabores que hacen que cada experiencia sea única. Eleva tu hidratación, disfruta de momentos de energía y añade un toque vibrante a tus reuniones con nuestras opciones de calidad.",
+          "groups": [
+            {
+              "group_id": "dchGrmAguasBebidas",
+              "display_name": "Aguas, Bebidas y Energéticas",
+              "path": "/ecommerce-root/masCategorias/catSupermercado",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "masCategorias",
+                  "display_name": "Nuevas Categorías"
+                },
+                {
+                  "id": "catSupermercado",
+                  "display_name": "Supermercado"
+                }
+              ]
+            }
+          ],
+          "color": "Único Color",
+          "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/fce83d6b-03e5-4247-9f50-e2a3a2c1f440/MKSQ51CPDP/MKSQ51CPDP-1/1721766613500-MKSQ51CPDP-1-0.png",
+          "variation_id": "MKSQ51CPDP-1",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Misceláneo"
+              ]
+            }
+          ],
+          "displayedPrice": 18990,
+          "tipoProductoAll": "Bebidas y Energéticas",
+          "discountPercentage": 14
+        },
+        "value": "6x Bebida Coca Cola Light 3000cc",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "url": "https://beta.paris.cl/6x-bebida-coca-cola-light-3000cc-MKSQ51CPDP.html",
+              "color": "Único Color",
+              "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/fce83d6b-03e5-4247-9f50-e2a3a2c1f440/MKSQ51CPDP/MKSQ51CPDP-1/1721766613500-MKSQ51CPDP-1-0.png",
+              "description": "Refréscate con nuestra amplia selección de aguas, bebidas y jugos, diseñada para satisfacer todos tus gustos y necesidades. Desde aguas premium y bebidas refrescantes hasta jugos llenos de vitalidad, nuestra colección ofrece opciones para cada ocasión. Descubre la pureza en cada gota, la frescura en cada sorbo y la variedad de sabores que hacen que cada experiencia sea única. Eleva tu hidratación, disfruta de momentos de energía y añade un toque vibrante a tus reuniones con nuestras opciones de calidad.",
+              "variation_id": "MKSQ51CPDP-1",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Misceláneo"
+                  ]
+                }
+              ],
+              "displayedPrice": 18990,
+              "tipoProductoAll": "Bebidas y Energéticas",
+              "discountPercentage": 14
+            },
+            "value": "6x Bebida Coca Cola Light 3000cc"
+          }
+        ]
+      },
+      {
+        "matched_terms": [
+          "coca"
+        ],
+        "labels": {},
+        "data": {
+          "id": "MKUA89VSMA",
+          "url": "https://beta.paris.cl/6x-bebida-coca-cola-light-1500cc-MKUA89VSMA.html",
+          "sellers": [
+            "Tost"
+          ],
+          "description": "Refrescate con nuestra amplia selección de aguas, bebidas y jugos, diseñada para satisfacer todos tus gustos y necesidades. Desde aguas premium y bebidas refrescantes hasta jugos llenos de vitalidad, nuestra colección ofrece opciones para cada ocasión. Descubre la pureza en cada gota, la frescura en cada sorbo y la variedad de sabores que hacen que cada experiencia sea única. Eleva tu hidratación, disfruta de momentos de energía y añade un toque vibrante a tus reuniones con nuestras opciones de calidad.",
+          "groups": [
+            {
+              "group_id": "dchGrmAguasBebidas",
+              "display_name": "Aguas, Bebidas y Energéticas",
+              "path": "/ecommerce-root/masCategorias/catSupermercado",
+              "path_list": [
+                {
+                  "id": "ecommerce-root",
+                  "display_name": "ecommerce"
+                },
+                {
+                  "id": "masCategorias",
+                  "display_name": "Nuevas Categorías"
+                },
+                {
+                  "id": "catSupermercado",
+                  "display_name": "Supermercado"
+                }
+              ]
+            }
+          ],
+          "color": "Único Color",
+          "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/fce83d6b-03e5-4247-9f50-e2a3a2c1f440/MKUA89VSMA/MKUA89VSMA-1/1721764690816-MKUA89VSMA-1-0.jpg",
+          "variation_id": "MKUA89VSMA-1",
+          "facets": [
+            {
+              "name": "color",
+              "values": [
+                "Misceláneo"
+              ]
+            }
+          ],
+          "displayedPrice": 13990,
+          "tipoProductoAll": "Bebidas y Energéticas",
+          "discountPercentage": 13
+        },
+        "value": "6x Bebida Coca Cola Light 1500cc",
+        "is_slotted": false,
+        "variations": [
+          {
+            "data": {
+              "url": "https://beta.paris.cl/6x-bebida-coca-cola-light-1500cc-MKUA89VSMA.html",
+              "color": "Único Color",
+              "image_url": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/792x1068/prd-cl/product-medias/fce83d6b-03e5-4247-9f50-e2a3a2c1f440/MKUA89VSMA/MKUA89VSMA-1/1721764690816-MKUA89VSMA-1-0.jpg",
+              "description": "Refrescate con nuestra amplia selección de aguas, bebidas y jugos, diseñada para satisfacer todos tus gustos y necesidades. Desde aguas premium y bebidas refrescantes hasta jugos llenos de vitalidad, nuestra colección ofrece opciones para cada ocasión. Descubre la pureza en cada gota, la frescura en cada sorbo y la variedad de sabores que hacen que cada experiencia sea única. Eleva tu hidratación, disfruta de momentos de energía y añade un toque vibrante a tus reuniones con nuestras opciones de calidad.",
+              "variation_id": "MKUA89VSMA-1",
+              "facets": [
+                {
+                  "name": "color",
+                  "values": [
+                    "Misceláneo"
+                  ]
+                }
+              ],
+              "displayedPrice": 13990,
+              "tipoProductoAll": "Bebidas y Energéticas",
+              "discountPercentage": 13
+            },
+            "value": "6x Bebida Coca Cola Light 1500cc"
+          }
+        ]
+      }
+    ]
+  },
+  "total_num_results_per_section": {
+    "Brands": 0,
+    "Search Suggestions": 20,
+    "Categories": 0,
+    "Products": 500
+  },
+  "result_id": "be81aa6d-2226-4cbc-81c5-5c6f2ecac7e1",
+  "request": {
+    "page_per_section": {},
+    "offset_per_section": {},
+    "num_section_results_per_page": {},
+    "num_results_Search Suggestions": 7,
+    "num_results_Categories": 2,
+    "num_results_Products": 10,
+    "term": "coca",
+    "features": {
+      "query_items": true,
+      "a_a_test": true,
+      "auto_generated_refined_query_rules": true,
+      "manual_searchandizing": true,
+      "personalization": true,
+      "filter_items": true,
+      "use_reranker_service_for_search": false,
+      "use_reranker_service_for_browse": false,
+      "use_reranker_service_for_all": false,
+      "custom_autosuggest_ui": false,
+      "disable_test_only_global_rules_search": false,
+      "disable_test_only_global_rules_browse": false,
+      "use_enriched_attributes_as_fuzzy_searchable": false
+    },
+    "feature_variants": {
+      "query_items": "query_items_ctr_and_l2r",
+      "a_a_test": null,
+      "auto_generated_refined_query_rules": "default_rules",
+      "manual_searchandizing": null,
+      "personalization": "default_personalization",
+      "filter_items": "filter_items_w_atcs_and_purchases",
+      "use_reranker_service_for_search": null,
+      "use_reranker_service_for_browse": null,
+      "use_reranker_service_for_all": null,
+      "custom_autosuggest_ui": null,
+      "disable_test_only_global_rules_search": null,
+      "disable_test_only_global_rules_browse": null,
+      "use_enriched_attributes_as_fuzzy_searchable": null
+    },
+    "searchandized_items": {}
+  }
+}
